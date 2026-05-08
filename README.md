@@ -4,8 +4,6 @@ A lightweight Windows utility designed to help diagnose system performance issue
 
 📸 Screenshots
 
-Add screenshots of the application here
-
 <img width="1920" height="1080" alt="FixCraft main ui" src="https://github.com/user-attachments/assets/b35afd8a-98c3-44f2-ba82-9d5fd0fd24ce" />
 <img width="1920" height="1080" alt="analysis fixcraft" src="https://github.com/user-attachments/assets/080118ab-3c1d-4cda-861b-4eee011ae08c" />
 <img width="1920" height="1080" alt="settings fixcraft" src="https://github.com/user-attachments/assets/4534b722-bd25-4614-839e-bbf5bc5a7ef6" />
