@@ -11,6 +11,7 @@ A lightweight Windows utility designed to help diagnose system performance issue
 ⚡ Features
 
 🔍 System Analysis
+
 Checks CPU, RAM, and disk usage
 Validates system stability indicators
 Detects low-resource conditions
