@@ -16,23 +16,28 @@ Validates system stability indicators
 Detects low-resource conditions
 
 ⚡ Quick Fix
+
 Clears temporary shader cache files
 Removes leftover launcher cache data
 Fast recovery for common performance issues
 
 🔧 Full Fix Mode
+
 Deeper cleanup and validation process
 Multi-step system repair workflow
 Designed for persistent issues
 
 💾 Virtual Memory Guide
+
 Step-by-step instructions to improve system memory configuration
 
 💻 System Information
+
 Displays full hardware and OS details
 CPU usage, RAM availability, and disk space overview
 
 🔍 Crash Log Analyzer
+
 Reads and interprets recent log files
 Detects common failure patterns such as:
 Memory allocation issues
@@ -40,10 +45,12 @@ Graphics driver errors
 Configuration problems
 
 🔄 Config Reset Tool
+
 Safely resets application configuration files
 Does not affect personal files or data
 
 ⚠️ RAM Pressure Monitor
+
 Real-time memory usage evaluation
 Clear status indicators:
 🟢 Normal
@@ -59,6 +66,7 @@ Windows 10
 Windows 11
 
 ⚙️ Requirements
+
 Python 3.10+
 psutil
 tkinter (built-in)
@@ -73,6 +81,7 @@ Optional icon support:
 pyinstaller --onefile --noconsole --icon=icon.ico main.py
 
 ⚠️ Disclaimer
+
 This tool is not affiliated with Microsoft, Mojang, or any game publisher
 It does not modify game files or user accounts
 All operations are performed locally on the user’s system
