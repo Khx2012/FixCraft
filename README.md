@@ -9,32 +9,40 @@ A lightweight Windows utility designed to help diagnose system performance issue
 <img width="1920" height="1080" alt="settings fixcraft" src="https://github.com/user-attachments/assets/4534b722-bd25-4614-839e-bbf5bc5a7ef6" />
 
 ⚡ Features
+
 🔍 System Analysis
 Checks CPU, RAM, and disk usage
 Validates system stability indicators
 Detects low-resource conditions
+
 ⚡ Quick Fix
 Clears temporary shader cache files
 Removes leftover launcher cache data
 Fast recovery for common performance issues
+
 🔧 Full Fix Mode
 Deeper cleanup and validation process
 Multi-step system repair workflow
 Designed for persistent issues
+
 💾 Virtual Memory Guide
 Step-by-step instructions to improve system memory configuration
+
 💻 System Information
 Displays full hardware and OS details
 CPU usage, RAM availability, and disk space overview
+
 🔍 Crash Log Analyzer
 Reads and interprets recent log files
 Detects common failure patterns such as:
 Memory allocation issues
 Graphics driver errors
 Configuration problems
+
 🔄 Config Reset Tool
 Safely resets application configuration files
 Does not affect personal files or data
+
 ⚠️ RAM Pressure Monitor
 Real-time memory usage evaluation
 Clear status indicators:
@@ -49,6 +57,7 @@ FixCraft is built to simplify troubleshooting for system-related performance iss
 Windows 8.1
 Windows 10
 Windows 11
+
 ⚙️ Requirements
 Python 3.10+
 psutil
@@ -62,11 +71,13 @@ pyinstaller --onefile --noconsole main.py
 Optional icon support:
 
 pyinstaller --onefile --noconsole --icon=icon.ico main.py
+
 ⚠️ Disclaimer
 This tool is not affiliated with Microsoft, Mojang, or any game publisher
 It does not modify game files or user accounts
 All operations are performed locally on the user’s system
 Use responsibly
+
 📁 Project Status
 
 🟢 Active Development
