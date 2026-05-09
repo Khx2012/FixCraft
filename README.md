@@ -73,6 +73,6 @@ Provides steps to increase system memory if needed.
 
 ## ⚠️ Disclaimer
 
-- Not affiliated with any game developer or company  
+- Not affiliated with Mojang or Microsoft  
 - Does not modify accounts or sensitive system data  
 - Use at your own risk
