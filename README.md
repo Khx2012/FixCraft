@@ -1,127 +1,78 @@
-🎮 FixCraft
+# 🎮 FixCraft
 
-A lightweight Windows utility designed to help diagnose system performance issues, optimize game stability, and assist with common crash troubleshooting.
+FixCraft is a lightweight Windows utility for diagnosing system performance issues and fixing common causes of game crashes.
 
-📸 Screenshots
+---
+
+## 📸 Preview
 
 <img width="1920" height="1080" alt="FixCraft main ui" src="https://github.com/user-attachments/assets/b35afd8a-98c3-44f2-ba82-9d5fd0fd24ce" />
 <img width="1920" height="1080" alt="analysis fixcraft" src="https://github.com/user-attachments/assets/080118ab-3c1d-4cda-861b-4eee011ae08c" />
 <img width="1920" height="1080" alt="settings fixcraft" src="https://github.com/user-attachments/assets/4534b722-bd25-4614-839e-bbf5bc5a7ef6" />
 
-⚡ Features
+---
 
-🔍 System Analysis
+## ⚡ What it does
 
-Checks CPU, RAM, and disk usage
+FixCraft focuses on the most common real-world causes of crashes and instability:
 
-Validates system stability indicators
+- Low available RAM  
+- Corrupted cache files  
+- Broken configuration files  
+- System resource pressure  
+- Log-detected issues  
 
-Detects low-resource conditions
+It scans, highlights problems, and applies safe fixes where possible.
 
-⚡ Quick Fix
+---
 
-Clears temporary shader cache files
+## 🧩 Core Features
 
-Removes leftover launcher cache data
+**🔍 System Analysis**  
+Scans CPU, RAM, disk, and environment to detect potential issues.
 
-Fast recovery for common performance issues
+**⚡ Quick Fix**  
+Clears shader and launcher cache to resolve common crashes quickly.
 
-🔧 Full Fix Mode
+**🔧 Full Fix**  
+Runs deeper cleanup and validation for persistent problems.
 
-Deeper cleanup and validation process
+**🔍 Crash Log Analysis**  
+Reads recent logs and identifies likely causes such as memory or GPU issues.
 
-Multi-step system repair workflow
+**💻 System Info**  
+Displays current hardware usage and system state.
 
-Designed for persistent issues
+**⚠️ RAM Pressure Check**  
+Shows current memory condition (🟢 normal / 🟡 warning / 🔴 critical).
 
-💾 Virtual Memory Guide
+**🔄 Config Reset**  
+Resets configuration files safely without touching personal data.
 
-Step-by-step instructions to improve system memory configuration
+**💾 Virtual Memory Guide**  
+Provides steps to increase system memory if needed.
 
-💻 System Information
+---
 
-Displays full hardware and OS details
+## 🖥️ Supported Systems
 
-CPU usage, RAM availability, and disk space overview
+- Windows 8.1  
+- Windows 10  
+- Windows 11  
 
-🔍 Crash Log Analyzer
+---
 
-Reads and interprets recent log files
+## 📌 Notes
 
-Detects common failure patterns such as:
+- All operations run locally (no internet required)
+- Only cache and config files are modified
+- No personal data or accounts are affected
+- Designed for safe diagnostics and cleanup only
 
-Memory allocation issues
+---
 
-Graphics driver errors
+## ⚠️ Disclaimer
 
-Configuration problems
-
-🔄 Config Reset Tool
-
-Safely resets application configuration files
-
-Does not affect personal files or data
-
-⚠️ RAM Pressure Monitor
-
-Real-time memory usage evaluation
-
-Clear status indicators:
-
-🟢 Normal
-
-🟡 High usage
-
-🔴 Critical pressure
-
-🧠 Purpose
-
-FixCraft is built to simplify troubleshooting for system-related performance issues and help users quickly identify common causes of crashes or instability.
-
-🖥 Supported Systems
-Windows 8.1
-Windows 10
-Windows 11
-
-⚙️ Requirements
-
-Python 3.10+
-
-psutil
-
-tkinter (built-in)
-
-🚀 Build Instructions
-
-To convert the project into an executable:
-
-pyinstaller --onefile --noconsole main.py
-
-Optional icon support:
-
-pyinstaller --onefile --noconsole --icon=icon.ico main.py
-
-⚠️ Disclaimer
-
-This tool is not affiliated with Microsoft, Mojang, or any game publisher
-
-It does not modify game files or user accounts
-
-All operations are performed locally on the user’s system
-
-Use responsibly
-
-📁 Project Status
-
-🟢 Active Development
-
-⚙️ Feature expansion in progress
-
-🧪 Experimental optimization toolkit
-
-📌 Notes
-Designed for modern Windows systems
-
-Focused on safe diagnostics and cleanup utilities
-
-Built with performance and simplicity in mind
+- Not affiliated with any game developer or company  
+- Does not modify accounts or sensitive system data  
+- Use at your own risk
