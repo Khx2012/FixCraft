@@ -1,6 +1,6 @@
 # 🎮 FixCraft
 
-FixCraft is a lightweight Windows utility for diagnosing system performance issues and fixing common causes of game crashes.
+FixCraft is a lightweight Windows utility for diagnosing system performance issues and fixing common causes of Minecraft crashes.
 
 ---
 
